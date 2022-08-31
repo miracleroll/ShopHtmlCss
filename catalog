@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap" rel="stylesheet">
+    <title>Главная</title>
+</head>
+
+<body>
+
+    <header class="header">
+        <div class="container menu">
+            <div class="menu-left">
+                <a class="logo" href="index.html"><img src="img/logo.svg" alt="logo"></a>
+                <a href="index.html"><img src="img/search.svg" alt="search"></a>
+            </div>
+            <div class="menu-right">
+                <a class="logo menu-mega" href="index.html"><img src="img/form.svg" alt="form"></a>
+                <nav class="mega-box">
+                    <div class="item">
+                        <h3 class="mega-head">menu</h3>
+                        <h3 class="mega-head-pink">man</h3>
+                        <a class="item-link" href="Sweaters/Knits">Accessories</a>
+                        <a class="item-link" href="Sweaters/Knits">Bags</a>
+                        <a class="item-link" href="Sweaters/Knits">Denim</a>
+                        <a class="item-link" href="Sweaters/Knits">T-Shirts</a>
+                        <h3 class="mega-head-pink">woman</h3>
+                        <a class="item-link" href="Sweaters/Knits">Accessories</a>
+                        <a class="item-link" href="Sweaters/Knits">Jackets & Coats</a>
+                        <a class="item-link" href="Sweaters/Knits">Polos</a>
+                        <a class="item-link" href="Sweaters/Knits">T-Shirts</a>
+                        <a class="item-link" href="Sweaters/Knits">Shirts</a>
+                        <h3 class="mega-head-pink">kids</h3>
+                        <a class="item-link" href="Sweaters/Knits">Accessories</a>
+                        <a class="item-link" href="Sweaters/Knits">Jackets & Coats</a>
+                        <a class="item-link" href="Sweaters/Knits">Polos</a>
+                        <a class="item-link" href="Sweaters/Knits">T-Shirts</a>
+                        <a class="item-link" href="Sweaters/Knits">Shirts</a>
+                        <a class="item-link" href="Sweaters/Knits">Bags</a>
+                    </div>
+                </nav>
+                <a class="logo" href="index.html"><img src="img/area.svg" alt="area"></a>
+                <a href="index.html"><img src="img/box.svg" alt="box"></a>
+            </div>
+        </div>
+    </header>
